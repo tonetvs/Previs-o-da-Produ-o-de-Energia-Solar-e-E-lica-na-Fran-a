@@ -47,15 +47,14 @@ previsao-energia-renovavel/
 ├── notebooks/  
 │   └── Previsao_energia_solar_eolica.ipynb  
 ├── data/  
-├── assets/  
-├── README.md  
+|── README.md  
 ├── requirements.txt  
 └── LICENSE
 
 ## Autor
 
 Heitor Tonet  
-Cientista de Dados com foco em energia, mobilidade inteligente e projetos aplicados ao mundo físico.
+Engenheiro de Controle e Automação e Cientista de Dados, com foco em manutenção preditiva, previsão de falhas industriais e controle inteligente aplicado à mobilidade elétrica autônoma.
 
 ## Licença
 
